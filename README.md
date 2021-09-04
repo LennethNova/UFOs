@@ -26,14 +26,16 @@ During this challenge the difficult part was making sure that the filters work b
 
 ## Results
 
-- How someone might use the new webpage by walking through the process of using the search criteria.
+- How someone might use the new webpage by walking through the process of using the search criteria: 
+
 Once the user enters the webpage, the options to write appear, and those have a placeholder text in order to set an example of the input the user should use. Once the desired data is selected, and followed by an enter command or a click to another option, the user will filter the information that is desired. Using this information and sharing it with the user (it can be placed also as instructions), the search criteria based on the user choice would be displayed. This way, if the user only desires for an specific date, country, state, city or a particular shape, the data selected will appear and the change would be faster.
 
 ![03](https://github.com/LennethNova/UFOs/blob/main/images/03.PNG)
 
 ![04](https://github.com/LennethNova/UFOs/blob/main/images/04.PNG)
 
-- Describe one drawback of this new design and two recommendations for further development.
+- Describe one drawback of this new design and two recommendations for further development: 
+
 One of the drawbacks is that since there is not a button, the user might feel that the information is not changing. Also, it would be better to have a scroll down menu in order to show the information available because the data is specific, for instance there could be various contries inside the data, but the user might think that the information is only from sightings in the US. It would be the same with the other options, so a scroll down with the data would really help the user to know the available information about the UFO sightings. A button should also be considered in order to give the user more control, it could also work for those who are used to click on something instead of just hitting enter or tab.
 
 ![05](https://github.com/LennethNova/UFOs/blob/main/images/05.PNG)
